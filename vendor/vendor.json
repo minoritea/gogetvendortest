@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "tLkPx+jHIYHRl3EcyRhIJdsw5no=",
+			"path": "github.com/minoritea/dummy",
+			"revision": "68014906b8e945e2305862ef9f9cf47185af23cb",
+			"revisionTime": "2019-03-07T08:59:44Z"
+		}
+	],
+	"rootPath": "github.com/minoritea/gogetvendortest"
+}
