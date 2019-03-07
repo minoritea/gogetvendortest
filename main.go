@@ -1,7 +1,8 @@
 package main
 
 import (
-	"github.com/minoritea/dummy"
+	"github.com/pkg/errors"
+	"log"
 )
 
-func main() { dummy.Dummy() }
+func main() { log.Println(errors.New("error")) }
